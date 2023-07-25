@@ -7,7 +7,7 @@ JavaScript | React | java Developer
 I am a Full Stack Developer skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
 
 * 🌍 Bhubaneswar, Odisha, India
-* 🖥️ [Website: www.tusharkantijoshi.com](https://tusharkantijoshi.com)
+* 🖥️ [Website:https://aksinsane.netlify.app/
 * ✉️ Email: akashkumarsadangi@gmail.com
 * ⚡ Favorite Quote: Law of Attraction: When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
 
